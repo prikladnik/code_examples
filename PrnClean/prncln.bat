@@ -1,0 +1,1 @@
+PrnClean.exe "c:\PRN_IN" "c:\PRN_OUT" 1 "C:\Program Files\FRViewer.exe"
